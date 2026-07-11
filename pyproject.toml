@@ -8,6 +8,7 @@ dependencies = [
     "airportsdata>=20260315",
     "dotenv>=0.9.9",
     "fastapi[standard]>=0.139.0",
+    "jinja2>=3.1.6",
     "langchain>=1.3.11",
     "langchain-community>=0.4.2",
     "langchain-groq>=1.1.3",

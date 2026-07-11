@@ -18,3 +18,4 @@ dotenv
 langchain-mcp-adapters
 nest_asyncio
 mcp
+jinja2
